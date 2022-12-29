@@ -1,0 +1,19 @@
+{
+  "input_path": "input",
+  "output_path": "output",
+  "extnames": {
+    "html": [
+      ".html",
+      ".htm"
+    ],
+    "js": [
+      ".js"
+    ],
+    "css": [
+      ".css"
+    ],
+    "json": [
+      "json"
+    ]
+  }
+}

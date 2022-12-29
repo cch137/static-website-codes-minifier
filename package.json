@@ -1,0 +1,30 @@
+{
+  "name": "static-website-codes-minifier",
+  "version": "1.0.0",
+  "description": "A tool for compressing static website codes efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cch137/static-website-codes-minifier.git"
+  },
+  "keywords": [
+    "static-website",
+    "codes-minifier"
+  ],
+  "author": "CCH137",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cch137/static-website-codes-minifier/issues"
+  },
+  "homepage": "https://github.com/cch137/static-website-codes-minifier#readme",
+  "dependencies": {
+    "@node-minify/clean-css": "^7.1.0",
+    "@node-minify/core": "^7.1.0",
+    "@node-minify/html-minifier": "^7.1.0",
+    "@node-minify/uglify-js": "^7.1.0",
+    "@types/node": "^18.11.18"
+  }
+}
